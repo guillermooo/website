@@ -1,4 +1,5 @@
 root = true
+# foo
 
 [*]
 insert_final_newline = true
